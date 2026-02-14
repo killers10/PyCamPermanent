@@ -21,3 +21,4 @@ pywin32
 pyplis @ git+https://github.com/volcanotech-sw/pyplis.git@sources_fix
 pydoas @ git+https://github.com/volcanotech-sw/pydoas.git
 iFit @ git+https://github.com/volcanotech-sw/iFit.git@make-pip-install
+cryptography>=46.0.5 # not directly required, pinned by Snyk to avoid a vulnerability
